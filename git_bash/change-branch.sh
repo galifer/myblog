@@ -1,1 +1,0 @@
-git checkout -b to_branch origin/to_branch
