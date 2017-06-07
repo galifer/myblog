@@ -1,1 +1,1 @@
-git checkout -b master origin/master
+git checkout -b to_branch origin/to_branch
